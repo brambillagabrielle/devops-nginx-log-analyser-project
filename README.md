@@ -1,10 +1,10 @@
-# Server Performance Stats Project
+# Nginx Log Analyser Project
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
 
 ## About the Project
 
-This project was proposed in the [DevOps Path from roadmap.sh](https://roadmap.sh/projects/nginx-log-analyser), with the objective of parsing a Nginx access log file using different Linux commands, such as: `awk`, `sed`, `grep`, `sort`, `uniq` and `head`
+This project was proposed in the [DevOps Path from roadmap.sh](https://roadmap.sh/projects/nginx-log-analyser), with the objective of parsing an access log file using different Linux commands, such as: `awk`, `sed`, `grep`, `sort`, `uniq` and `head`, and obtain some statistics to analyse the origin of requests received by Nginx.
 
 ## Prerequisites
 
