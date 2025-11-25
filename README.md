@@ -4,7 +4,7 @@
 
 ## About the Project
 
-This project was proposed in the [DevOps Path from roadmap.sh](https://roadmap.sh/projects/nginx-log-analyser), with the objective of parsing an access log file using different Linux commands, such as: `awk`, `sed`, `grep`, `sort`, `uniq` and `head`, and obtain some statistics to analyse the origin of requests received by Nginx.
+This project was proposed in the [DevOps Path from roadmap.sh](https://roadmap.sh/projects/nginx-log-analyser), with the objective of **parsing an access log file using different Linux commands**, such as: `awk`, `sed`, `grep`, `sort`, `uniq` and `head`, and obtain some statistics to analyse the **origin of requests received by Nginx**.
 
 ## Prerequisites
 
